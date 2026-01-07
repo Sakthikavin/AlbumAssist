@@ -1,0 +1,18 @@
+{
+    "ruleType": "DataOwner",
+    "ownerName": "Ingo Seidt",
+    "ownerMail": "ingo.seidt@otto.de",
+    "ownerTeamName": "FreeTrade",
+    "ownerTeamMail": "all-otto-bi-tw@thoughtworks.com",
+    "ownerTeamsChannel": "https://teams.microsoft.com/l/channel/19%3AM0OfemD-YqLECmwQ0lIF18Nia0uVVFN-gFxhqegR4hQ1%40thread.tacv2/General?groupId=1f860ebf-b53c-4729-b410-c3d0b016a8c4&tenantId=8794e153-c3bd-4479-8bea-61aeaf167d5a",
+    "alerting": {
+        "alertingTarget": {
+            "ms-webhook": "(no target)"
+        },
+        "defaultSettings": {
+            "notifyProcessingErrors": false,
+            "notifyUnprocessedMessages": false,
+            "notifyAnomaliesInMsgDeliveryFrequency": false
+        }
+    }
+}
